@@ -1,2 +1,14 @@
 # LVGL_DEMOS_STM32
  LVGL DEMOS STM32
+
+How to import the demo project?
+Step 1: Clone or copy and paste the desired example into your STM32CUBEIDE workspace folder.
+
+Step 2: Open STM32CUBEIDE, click FILE -> IMPORT -> General -> Existing Projects into Workspace.
+
+Step 3: A windown named "Import" will open, select the root directory by clicking the button named 
+        "Browse ..", locate the example folder you cloned or copy&paste into your workspace in the Step 1, 
+        select it and click the button named "Select folder".
+
+Step 4: The example will be launched into Container named "Projects", be sure the project example is 
+        visible and selected, then click finish. 
