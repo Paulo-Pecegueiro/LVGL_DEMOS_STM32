@@ -15,7 +15,7 @@ Step 3: A windown named "Import" will open, select the root directory by clickin
 Step 4: The example will be launched into Container named "Projects", be sure the project example is 
         visible and selected, then click finish. 
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/************************************************************************************************************************************/
 
 
 Do you want to change screen orientation?
