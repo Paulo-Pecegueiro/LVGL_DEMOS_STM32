@@ -18,7 +18,7 @@ Step 4: The example will be launched into Container named "Projects", be sure th
 /************************************************************************************************************************************/
 
 
-Do you want to change screen orientation?
+Do you want to change screen's orientation?
 
 I have implemented the orientation using the display controller hardware, so do not worry about performance.
 
@@ -26,4 +26,4 @@ Step 1: Go to LVGL-> hal_stm_lvgl -> tft -> tft.c
 
 Step 2: Go "static void disp_init(void)" and set the orientation into "ILI9341_Init()" function.
 
-It can be set to: DISP_ROT_Portrait, DISP_ROT_Landscape, DISP_ROT_Inv_Portrait or DISP_ROT_Inv_Landscape
+It can be set to: DISP_ROT_Portrait, DISP_ROT_Landscape, DISP_ROT_Inv_Portrait or DISP_ROT_Inv_Landscape.
