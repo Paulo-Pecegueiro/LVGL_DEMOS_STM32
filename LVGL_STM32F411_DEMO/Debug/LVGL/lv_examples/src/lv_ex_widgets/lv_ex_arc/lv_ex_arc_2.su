@@ -1,0 +1,3 @@
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_arc_2.c:8:13:arc_loader	16	static
+lv_ex_arc_2.c:25:6:lv_ex_arc_2	24	static

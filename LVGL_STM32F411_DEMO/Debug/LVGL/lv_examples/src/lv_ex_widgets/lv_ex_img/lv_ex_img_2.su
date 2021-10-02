@@ -1,0 +1,10 @@
+lv_color.h:583:26:lv_color_make	16	static
+lv_obj_style_dec.h:113:1:lv_obj_set_style_local_bg_color	16	static
+lv_obj_style_dec.h:167:1:lv_obj_set_style_local_image_recolor	16	static
+lv_obj_style_dec.h:169:1:lv_obj_set_style_local_image_recolor_opa	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_slider.h:84:20:lv_slider_set_value	16	static
+lv_slider.h:106:20:lv_slider_set_range	16	static
+lv_ex_img_2.c:13:6:lv_ex_img_2	16	static
+lv_ex_img_2.c:24:13:slider_event_cb	32	static
+lv_ex_img_2.c:35:13:create_sliders	32	static

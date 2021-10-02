@@ -1,0 +1,10 @@
+lv_obj_style_dec.h:92:1:lv_style_set_radius	16	static
+lv_obj_style_dec.h:113:1:lv_style_set_bg_color	16	static
+lv_obj_style_dec.h:115:1:lv_style_set_bg_opa	16	static
+lv_obj_style_dec.h:143:1:lv_style_set_value_ofs_x	16	static
+lv_obj_style_dec.h:144:1:lv_style_set_value_ofs_y	16	static
+lv_obj_style_dec.h:145:1:lv_style_set_value_align	16	static
+lv_obj_style_dec.h:146:1:lv_style_set_value_color	16	static
+lv_obj_style_dec.h:149:1:lv_obj_set_style_local_value_str	24	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_style_6.c:6:6:lv_ex_style_6	32	static

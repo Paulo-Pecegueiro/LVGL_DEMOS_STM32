@@ -1,0 +1,4 @@
+lv_obj_style_dec.h:154:1:lv_style_set_text_color	16	static
+lv_obj_style_dec.h:157:1:lv_style_set_text_opa	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_label_2.c:4:6:lv_ex_label_2	32	static

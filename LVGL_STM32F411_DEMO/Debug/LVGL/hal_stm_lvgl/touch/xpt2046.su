@@ -1,0 +1,9 @@
+xpt2046.c:18:6:XPT2046_Select	4	static
+xpt2046.c:32:6:XPT2046_Deselect	4	static
+xpt2046.c:39:10:XPT2046_Irq_Read	8	static
+xpt2046.c:44:16:SendReceive_Byte	32	static
+xpt2046.c:51:6:XPT2046_Init	8	static
+xpt2046.c:70:10:XPT2046_Get_Value	24	static
+xpt2046.c:84:6:XPT2046_Get_Touch_XY	40	static
+xpt2046.c:114:6:XPT2046_Corr	16	static
+xpt2046.c:158:6:XPT2046_Average	32	static

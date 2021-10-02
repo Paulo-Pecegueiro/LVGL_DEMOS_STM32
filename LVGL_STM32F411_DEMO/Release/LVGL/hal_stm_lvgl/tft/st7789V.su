@@ -1,0 +1,11 @@
+st7789V.c:41:13:ST7789_SPI_Send	0	static
+st7789V.c:105:13:ST7789_Write_Cmd	16	static
+st7789V.c:61:6:ST7789_SPI_WAIT_DMA	0	static
+st7789V.c:369:6:ST7789_Reset	8	static
+st7789V.c:388:6:ST7789_Select	0	static
+st7789V.c:403:6:ST7789_Deselect	0	static
+st7789V.c:418:6:ST7789_Wait_TE	0	static
+st7789V.c:434:6:ST7789_DisplayOn	0	static
+st7789V.c:448:6:ST7789_DisplayOff	0	static
+st7789V.c:156:6:ST7789_Init	24	static
+st7789V.c:554:6:ST7789_Send_Data_DMA	40	static

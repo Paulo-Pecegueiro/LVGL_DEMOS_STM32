@@ -1,0 +1,3 @@
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_textarea_1.c:7:13:event_handler	24	static
+lv_ex_textarea_1.c:23:6:lv_ex_textarea_1	16	static

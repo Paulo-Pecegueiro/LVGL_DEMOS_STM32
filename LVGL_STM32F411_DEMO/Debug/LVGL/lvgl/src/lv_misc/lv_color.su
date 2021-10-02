@@ -1,0 +1,9 @@
+lv_color.h:376:24:lv_color_to32	24	static
+lv_color.h:440:48:lv_color_mix	24	static
+lv_color.h:583:26:lv_color_make	16	static
+lv_color.c:35:28:lv_color_fill	40	static
+lv_color.c:125:12:lv_color_lighten	16	static
+lv_color.c:130:12:lv_color_darken	16	static
+lv_color.c:142:12:lv_color_hsv_to_rgb	32	static
+lv_color.c:207:16:lv_color_rgb_to_hsv	48	static
+lv_color.c:258:16:lv_color_to_hsv	24	static

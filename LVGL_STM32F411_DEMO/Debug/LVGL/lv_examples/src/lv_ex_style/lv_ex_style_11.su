@@ -1,0 +1,15 @@
+lv_obj_style_dec.h:92:1:lv_style_set_radius	16	static
+lv_obj_style_dec.h:100:1:lv_style_set_pad_top	16	static
+lv_obj_style_dec.h:102:1:lv_style_set_pad_left	16	static
+lv_obj_style_dec.h:103:1:lv_style_set_pad_right	16	static
+lv_obj_style_dec.h:104:1:lv_style_set_pad_inner	16	static
+lv_obj_style_dec.h:113:1:lv_style_set_bg_color	16	static
+lv_obj_style_dec.h:115:1:lv_style_set_bg_opa	16	static
+lv_obj_style_dec.h:159:1:lv_style_set_line_width	16	static
+lv_obj_style_dec.h:164:1:lv_style_set_line_color	16	static
+lv_obj_style_dec.h:186:1:lv_style_set_scale_end_border_width	16	static
+lv_obj_style_dec.h:187:1:lv_style_set_scale_end_line_width	16	static
+lv_obj_style_dec.h:188:1:lv_style_set_scale_grad_color	16	static
+lv_obj_style_dec.h:189:1:lv_style_set_scale_end_color	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_style_11.c:6:6:lv_ex_style_11	32	static

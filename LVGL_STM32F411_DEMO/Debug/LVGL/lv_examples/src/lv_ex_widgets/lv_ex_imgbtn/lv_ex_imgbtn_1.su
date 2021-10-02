@@ -1,0 +1,6 @@
+lv_obj_style_dec.h:154:1:lv_style_set_text_color	16	static
+lv_obj_style_dec.h:167:1:lv_style_set_image_recolor	16	static
+lv_obj_style_dec.h:169:1:lv_style_set_image_recolor_opa	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_imgbtn.h:119:20:lv_imgbtn_set_checkable	16	static
+lv_ex_imgbtn_1.c:4:6:lv_ex_imgbtn_1	24	static

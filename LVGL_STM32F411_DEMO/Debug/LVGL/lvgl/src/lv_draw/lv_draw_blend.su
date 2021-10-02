@@ -1,0 +1,11 @@
+lv_color.h:440:48:lv_color_mix	24	static
+lv_color.h:460:42:lv_color_premult	16	static
+lv_color.h:485:48:lv_color_mix_premult	24	static
+lv_area.h:107:26:lv_area_get_width	16	static
+lv_area.h:117:26:lv_area_get_height	16	static
+lv_draw_blend.c:130:28:_lv_blend_fill	80	static
+lv_draw_blend.c:197:28:_lv_blend_map	80	static
+lv_draw_blend.c:255:13:fill_set_px	80	static
+lv_draw_blend.c:309:35:fill_normal	104	static
+lv_draw_blend.c:644:13:map_set_px	88	static
+lv_draw_blend.c:708:35:map_normal	80	static

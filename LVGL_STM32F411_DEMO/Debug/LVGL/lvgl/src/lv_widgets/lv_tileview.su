@@ -1,0 +1,17 @@
+lv_anim.h:125:20:lv_anim_set_var	16	static
+lv_anim.h:137:20:lv_anim_set_exec_cb	16	static
+lv_anim.h:147:20:lv_anim_set_time	16	static
+lv_anim.h:168:20:lv_anim_set_values	16	static
+lv_obj_style_dec.h:100:1:lv_obj_get_style_pad_top	16	static
+lv_obj_style_dec.h:102:1:lv_obj_get_style_pad_left	16	static
+lv_cont.h:168:20:lv_cont_set_fit	24	static
+lv_page.h:197:20:lv_page_set_scrollable_fit	16	static
+lv_tileview.c:65:12:lv_tileview_create	32	static
+lv_tileview.c:153:6:lv_tileview_add_element	16	static
+lv_tileview.c:173:6:lv_tileview_set_valid_positions	32	static
+lv_tileview.c:205:6:lv_tileview_set_tile_act	128	static
+lv_tileview.c:279:6:lv_tileview_get_tile_act	32	static
+lv_tileview.c:306:17:lv_tileview_signal	32	static
+lv_tileview.c:329:17:lv_tileview_scrl_signal	64	static
+lv_tileview.c:396:13:drag_end_handler	64	static
+lv_tileview.c:452:13:set_valid_drag_dirs	24	static

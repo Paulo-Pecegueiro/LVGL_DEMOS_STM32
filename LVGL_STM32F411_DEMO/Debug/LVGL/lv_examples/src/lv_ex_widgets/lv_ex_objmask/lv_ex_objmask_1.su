@@ -1,0 +1,6 @@
+lv_color.h:583:26:lv_color_make	16	static
+lv_color.h:593:26:lv_color_hex3	16	static
+lv_obj_style_dec.h:113:1:lv_obj_set_style_local_bg_color	16	static
+lv_obj_style_dec.h:149:1:lv_obj_set_style_local_value_str	24	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_objmask_1.c:4:6:lv_ex_objmask_1	152	static

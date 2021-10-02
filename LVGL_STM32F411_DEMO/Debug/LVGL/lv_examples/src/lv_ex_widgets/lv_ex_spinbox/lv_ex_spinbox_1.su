@@ -1,0 +1,5 @@
+lv_obj_style_dec.h:149:1:lv_obj_set_style_local_value_str	24	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_spinbox_1.c:8:13:lv_spinbox_increment_event_cb	16	static
+lv_ex_spinbox_1.c:15:13:lv_spinbox_decrement_event_cb	16	static
+lv_ex_spinbox_1.c:23:6:lv_ex_spinbox_1	24	static

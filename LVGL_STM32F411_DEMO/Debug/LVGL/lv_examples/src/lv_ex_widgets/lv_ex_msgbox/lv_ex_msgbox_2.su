@@ -1,0 +1,11 @@
+lv_anim.h:125:20:lv_anim_set_var	16	static
+lv_anim.h:137:20:lv_anim_set_exec_cb	16	static
+lv_anim.h:147:20:lv_anim_set_time	16	static
+lv_anim.h:168:20:lv_anim_set_values	16	static
+lv_obj_style_dec.h:113:1:lv_style_set_bg_color	16	static
+lv_obj_style_dec.h:115:1:lv_obj_set_style_local_bg_opa	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_msgbox_2.c:17:6:lv_ex_msgbox_2	32	static
+lv_ex_msgbox_2.c:41:13:mbox_event_cb	16	static
+lv_ex_msgbox_2.c:54:13:btn_event_cb	104	static
+lv_ex_msgbox_2.c:89:13:opa_anim	16	static

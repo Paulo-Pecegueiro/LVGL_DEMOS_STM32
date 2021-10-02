@@ -1,0 +1,5 @@
+lv_obj_style_dec.h:159:1:lv_style_set_line_width	16	static
+lv_obj_style_dec.h:163:1:lv_style_set_line_rounded	16	static
+lv_obj_style_dec.h:164:1:lv_style_set_line_color	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_line_1.c:4:6:lv_ex_line_1	32	static

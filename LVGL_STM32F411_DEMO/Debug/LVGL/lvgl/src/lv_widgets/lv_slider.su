@@ -1,0 +1,17 @@
+lv_mem.h:213:44:_lv_memcpy_small	32	static
+lv_area.h:97:20:lv_area_copy	16	static
+lv_area.h:107:26:lv_area_get_width	16	static
+lv_area.h:117:26:lv_area_get_height	16	static
+lv_obj_style_dec.h:100:1:lv_obj_get_style_pad_top	16	static
+lv_obj_style_dec.h:101:1:lv_obj_get_style_pad_bottom	16	static
+lv_obj_style_dec.h:102:1:lv_obj_get_style_pad_left	16	static
+lv_obj_style_dec.h:103:1:lv_obj_get_style_pad_right	16	static
+lv_slider.h:200:32:lv_slider_get_type	24	static
+lv_slider.c:61:12:lv_slider_create	40	static
+lv_slider.c:128:9:lv_slider_get_value	16	static
+lv_slider.c:139:6:lv_slider_is_dragged	24	static
+lv_slider.c:161:24:lv_slider_design	56	static
+lv_slider.c:247:17:lv_slider_signal	104	static
+lv_slider.c:473:26:lv_slider_get_style	24	static
+lv_slider.c:497:13:lv_slider_position_knob	32	static
+lv_slider.c:525:13:lv_slider_draw_knob	112	static

@@ -1,0 +1,6 @@
+lv_obj_style_dec.h:110:1:lv_obj_set_style_local_bg_main_stop	16	static
+lv_obj_style_dec.h:111:1:lv_obj_set_style_local_bg_grad_stop	16	static
+lv_obj_style_dec.h:112:1:lv_obj_set_style_local_bg_grad_dir	16	static
+lv_obj_style_dec.h:115:1:lv_obj_set_style_local_bg_opa	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_chart_2.c:7:6:lv_ex_chart_2	40	static

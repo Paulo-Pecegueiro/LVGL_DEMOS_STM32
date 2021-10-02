@@ -1,0 +1,5 @@
+tft.c:44:6:tft_init	8	static
+tft.c:89:13:disp_init	8	static
+tft.c:99:13:disp_flush	40	static
+tft.c:113:6:HAL_SPI_TxCpltCallback	16	static
+tft.c:120:6:HAL_SPI_ErrorCallback	16	static

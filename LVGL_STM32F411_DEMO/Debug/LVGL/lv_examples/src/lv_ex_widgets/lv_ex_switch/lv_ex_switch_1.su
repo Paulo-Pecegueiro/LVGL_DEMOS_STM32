@@ -1,0 +1,4 @@
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_switch.h:112:20:lv_switch_get_state	16	static
+lv_ex_switch_1.c:5:13:event_handler	16	static
+lv_ex_switch_1.c:12:6:lv_ex_switch_1	24	static

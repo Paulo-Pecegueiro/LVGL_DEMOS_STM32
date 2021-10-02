@@ -1,0 +1,6 @@
+lv_obj_style_dec.h:112:1:lv_style_set_bg_grad_dir	16	static
+lv_obj_style_dec.h:113:1:lv_style_set_bg_color	16	static
+lv_obj_style_dec.h:114:1:lv_style_set_bg_grad_color	16	static
+lv_obj_style_dec.h:115:1:lv_style_set_bg_opa	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_objmask_2.c:7:6:lv_ex_objmask_2	112	static

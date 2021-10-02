@@ -1,0 +1,16 @@
+ili9341.c:16:13:ILI9341_DC_Set	4	static
+ili9341.c:28:13:ILI9341_DC_Reset	4	static
+ili9341.c:40:6:ILI9341_Select	4	static
+ili9341.c:55:6:ILI9341_Deselect	4	static
+ili9341.c:70:13:ILI9341_DisplayOn	4	static
+ili9341.c:84:13:ILI9341_DisplayOff	4	static
+ili9341.c:100:13:ILI9341_Wait_TE	4	static
+ili9341.c:117:13:ILI9341_SPI_Send	16	static
+ili9341.c:136:13:ILI9341_SPI_WAIT_DMA	4	static
+ili9341.c:149:13:ILI9341_SPI_Send_DMA	16	static
+ili9341.c:179:13:ILI9341_Write_Cmd	16	static
+ili9341.c:194:13:ILI9341_Write_Data	16	static
+ili9341.c:206:13:ILI9341_Reset	8	static
+ili9341.c:230:13:ILI9341_Address_Set	32	static
+ili9341.c:280:6:ILI9341_Init	32	static
+ili9341.c:491:6:ILI9341_Send_Data_DMA	24	static

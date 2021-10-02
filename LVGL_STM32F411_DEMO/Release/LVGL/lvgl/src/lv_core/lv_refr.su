@@ -1,0 +1,12 @@
+lv_refr.c:586:19:lv_refr_get_top_obj	24	static
+lv_refr.c:671:13:lv_refr_obj	64	static
+lv_refr.c:627:13:lv_refr_obj_and_children	24	static
+lv_refr.c:904:13:lv_refr_vdb_flush	112	static
+lv_refr.c:499:13:lv_refr_area_part	128	static
+lv_refr.c:69:6:_lv_refr_init	0	static
+lv_refr.c:106:6:_lv_inv_area	40	static
+lv_refr.c:155:13:_lv_refr_get_disp_refreshing	0	static
+lv_refr.c:166:6:_lv_refr_set_disp_refreshing	0	static
+lv_refr.c:175:6:_lv_disp_refr_task	88	static
+lv_refr.c:81:6:lv_refr_now	8	static
+lv_refr.c:325:10:lv_refr_get_fps_avg	0	static

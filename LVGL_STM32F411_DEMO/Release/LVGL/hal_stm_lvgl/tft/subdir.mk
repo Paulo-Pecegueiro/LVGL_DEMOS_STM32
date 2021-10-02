@@ -1,0 +1,26 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (9-2020-q2-update)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../LVGL/hal_stm_lvgl/tft/ili9341.c \
+../LVGL/hal_stm_lvgl/tft/st7789V.c \
+../LVGL/hal_stm_lvgl/tft/tft.c 
+
+OBJS += \
+./LVGL/hal_stm_lvgl/tft/ili9341.o \
+./LVGL/hal_stm_lvgl/tft/st7789V.o \
+./LVGL/hal_stm_lvgl/tft/tft.o 
+
+C_DEPS += \
+./LVGL/hal_stm_lvgl/tft/ili9341.d \
+./LVGL/hal_stm_lvgl/tft/st7789V.d \
+./LVGL/hal_stm_lvgl/tft/tft.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+LVGL/hal_stm_lvgl/tft/%.o: ../LVGL/hal_stm_lvgl/tft/%.c LVGL/hal_stm_lvgl/tft/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m4 -std=gnu11 -DUSE_HAL_DRIVER -DSTM32F411xE -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I"C:/Users/paulo/STM32CubeIDE/LVGL/LVGL_STM32F411_DEMO/LVGL/lvgl/src/lv_font" -I"C:/Users/paulo/STM32CubeIDE/LVGL/LVGL_STM32F411_DEMO/LVGL/lv_examples" -I"C:/Users/paulo/STM32CubeIDE/LVGL/LVGL_STM32F411_DEMO/LVGL" -I"C:/Users/paulo/STM32CubeIDE/LVGL/LVGL_STM32F411_DEMO/LVGL/lv_examples/src" -Os -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "$@"
+

@@ -1,0 +1,4 @@
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_slider.h:106:20:lv_slider_set_range	16	static
+lv_ex_slider_2.c:8:6:lv_ex_slider_2	24	static
+lv_ex_slider_2.c:31:13:slider_event_cb	16	static

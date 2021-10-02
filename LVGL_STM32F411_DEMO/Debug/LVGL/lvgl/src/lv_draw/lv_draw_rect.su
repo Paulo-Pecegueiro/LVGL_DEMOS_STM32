@@ -1,0 +1,12 @@
+lv_mem.h:213:44:_lv_memcpy_small	32	static
+lv_area.h:97:20:lv_area_copy	16	static
+lv_area.h:107:26:lv_area_get_width	16	static
+lv_area.h:117:26:lv_area_get_height	16	static
+lv_color.h:440:48:lv_color_mix	24	static
+lv_draw_rect.c:75:28:lv_draw_rect_dsc_init	16	static
+lv_draw_rect.c:103:6:lv_draw_rect	24	static
+lv_draw_rect.c:135:6:lv_draw_px	24	static
+lv_draw_rect.c:167:35:draw_bg	192	static
+lv_draw_rect.c:386:35:draw_border	200	static
+lv_draw_rect.c:507:48:grad_get	32	static
+lv_draw_rect.c:1350:13:draw_full_border	232	static

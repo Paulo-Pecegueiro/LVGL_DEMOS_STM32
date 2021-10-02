@@ -1,0 +1,6 @@
+lv_area.h:107:26:lv_area_get_width	16	static
+lv_draw_line.c:49:28:lv_draw_line_dsc_init	16	static
+lv_draw_line.c:64:28:lv_draw_line	136	static
+lv_draw_line.c:119:35:draw_line_hor	112	static
+lv_draw_line.c:219:35:draw_line_ver	112	static
+lv_draw_line.c:313:35:draw_line_skew	336	static

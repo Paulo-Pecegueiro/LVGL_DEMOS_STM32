@@ -1,0 +1,16 @@
+lv_color.h:460:42:lv_color_premult	16	static
+lv_color.h:485:48:lv_color_mix_premult	24	static
+lv_mem.h:213:44:_lv_memcpy_small	32	static
+lv_area.h:97:20:lv_area_copy	16	static
+lv_area.h:107:26:lv_area_get_width	16	static
+lv_area.h:117:26:lv_area_get_height	16	static
+lv_draw_img.c:57:6:lv_draw_img_dsc_init	16	static
+lv_draw_img.c:74:6:lv_draw_img	32	static
+lv_draw_img.c:99:9:lv_img_cf_get_px_size	24	static
+lv_draw_img.c:144:6:lv_img_cf_is_chroma_keyed	24	static
+lv_draw_img.c:171:6:lv_img_cf_has_alpha	24	static
+lv_draw_img.c:204:14:lv_img_src_get_type	24	static
+lv_draw_img.c:233:39:lv_img_draw_core	128	static
+lv_draw_img.c:337:35:lv_draw_map	200	static
+lv_draw_img.c:642:13:show_error	152	static
+lv_draw_img.c:654:13:draw_cleanup	16	static

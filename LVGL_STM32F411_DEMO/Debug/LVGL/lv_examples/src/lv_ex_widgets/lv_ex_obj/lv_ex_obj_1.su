@@ -1,0 +1,5 @@
+lv_obj_style_dec.h:127:1:lv_style_set_shadow_width	16	static
+lv_obj_style_dec.h:130:1:lv_style_set_shadow_spread	16	static
+lv_obj_style_dec.h:132:1:lv_style_set_shadow_color	16	static
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_obj_1.c:3:6:lv_ex_obj_1	40	static

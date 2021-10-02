@@ -1,0 +1,5 @@
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_list.h:125:20:lv_list_set_scrollbar_mode	16	static
+lv_list.h:136:20:lv_list_set_scroll_propagation	16	static
+lv_tileview.h:105:20:lv_tileview_set_edge_flash	16	static
+lv_ex_tileview_1.c:4:6:lv_ex_tileview_1	48	static

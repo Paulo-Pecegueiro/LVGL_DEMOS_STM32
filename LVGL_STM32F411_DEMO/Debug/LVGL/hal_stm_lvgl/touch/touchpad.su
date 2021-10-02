@@ -1,0 +1,2 @@
+touchpad.c:51:6:touchpad_init	8	static
+touchpad.c:72:14:touchpad_read	24	static

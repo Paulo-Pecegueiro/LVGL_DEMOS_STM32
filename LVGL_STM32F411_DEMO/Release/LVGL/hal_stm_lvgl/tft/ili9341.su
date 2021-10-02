@@ -1,0 +1,6 @@
+ili9341.c:40:6:ILI9341_Select	0	static
+ili9341.c:55:6:ILI9341_Deselect	0	static
+ili9341.c:117:13:ILI9341_SPI_Send	16	static
+ili9341.c:179:13:ILI9341_Write_Cmd	16	static
+ili9341.c:280:6:ILI9341_Init	40	static
+ili9341.c:491:6:ILI9341_Send_Data_DMA	40	static

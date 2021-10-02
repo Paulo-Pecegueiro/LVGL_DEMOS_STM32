@@ -1,0 +1,5 @@
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_cont.h:157:20:lv_cont_set_fit2	24	static
+lv_btn.h:133:20:lv_btn_set_fit2	16	static
+lv_ex_btn_1.c:5:13:event_handler	16	static
+lv_ex_btn_1.c:15:6:lv_ex_btn_1	32	static

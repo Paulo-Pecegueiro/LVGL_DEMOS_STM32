@@ -1,0 +1,4 @@
+lv_disp.h:158:26:lv_scr_act	8	static
+lv_ex_spinbox_1.c:15:13:lv_spinbox_decrement_event_cb	0	static
+lv_ex_spinbox_1.c:8:13:lv_spinbox_increment_event_cb	0	static
+lv_ex_spinbox_1.c:23:6:lv_ex_spinbox_1	32	static
