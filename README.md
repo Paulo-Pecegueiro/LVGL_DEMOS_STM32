@@ -1,6 +1,7 @@
 # LVGL_DEMOS_STM32
  LVGL DEMOS STM32
 
+LVGL DEMO STM32F411CE VIDEO: https://www.youtube.com/watch?v=CLdzwTwlE5k
 
 How to import the demo project?
 
