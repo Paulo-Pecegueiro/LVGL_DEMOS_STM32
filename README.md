@@ -21,7 +21,7 @@ Step 4: The example will be launched into Container named "Projects", be sure th
 
 Do you want to change screen's orientation?
 
-I have implemented the orientation using the display controller hardware, so do not worry about performance.
+I have implemented the orientation using the display controller at the hardware level, so do not worry about cpu overhead.
 
 Step 1: Go to LVGL-> hal_stm_lvgl -> tft -> tft.c
 
